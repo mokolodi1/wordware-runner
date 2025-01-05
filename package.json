@@ -1,0 +1,24 @@
+{
+  "name": "wordware-runner",
+  "version": "1.0.0",
+  "description": "Run Wordware.AI tools and parse the output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokolodi1/wordware-runner.git"
+  },
+  "keywords": [
+    "wordware",
+    "ai",
+    "parser"
+  ],
+  "author": "mokolodi1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mokolodi1/wordware-runner/issues"
+  },
+  "homepage": "https://github.com/mokolodi1/wordware-runner#readme"
+}
