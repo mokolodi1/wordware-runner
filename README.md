@@ -2,6 +2,8 @@
 
 This allows you to run Wordware apps.
 
+I expect this package to be a stop-gap measure until Wordware comes out with an official Javascript package.
+
 ## Examples
 
 ### Tell me about... bot
